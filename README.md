@@ -1,1 +1,2 @@
-# Amazon-Clone
+# Amazon UI Clone - HTML & CSS
+This repository contains a static clone of Amazon's frontend, recreated using HTML and CSS. This project aims to mirror the visual aspects and user interface of Amazon, demonstrating a mastery of HTML structure and CSS design principles. The clone includes key pages and components, such as the homepage, product listings, and navigation. Explore this project to see a faithful recreation of Amazon's UI, built solely with HTML and CSS.
